@@ -1,0 +1,8 @@
+{
+  "name": "Remix Logo Rush: Guess \u0026 Reveal Trivia",
+  "description": "Addictive logo quiz game with progressive blur \u0026 distortion reveals, Daily 10 challenge, Rush mode, Ethiopian local brands, 1v1 battle, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
